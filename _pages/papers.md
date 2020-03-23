@@ -9,7 +9,7 @@ author_profile: true
 
 - One Money, Many Markets: Monetary Transmission and Housing Financing in the Euro Area <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann) (**submitted**)
-	- [PDF]({https://github.com/jbduarte/jbduarte.github.io/_papers/OneMoney_ManyMarkets.pdf)
+	- [PDF](/_papers/OneMoney_ManyMarkets.pdf)
 
 
 ---
