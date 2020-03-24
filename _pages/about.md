@@ -18,7 +18,7 @@ My research focus on two main areas: housing and structural transformation. In h
 **News**
 ======
 
-**[March 22, 2020]** My COVID-19 data analysis that displays the number of deaths adjusting by populalation and estimates the true number of infected is now live [[link](https://covid19dashboards.com)].
+**[March 22, 2020]** My COVID-19 data analysis that displays the number of deaths adjusting by population and estimates the true number of infected is now live [[link](https://covid19dashboards.com)].
 
 **[March 21, 2020]** new version of my working paper "One Money, Many Markets" is now available.
 ![alt text](/images/onemoney_news.png)
