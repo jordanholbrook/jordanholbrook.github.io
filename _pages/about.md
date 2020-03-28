@@ -6,6 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-62391102-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-62391102-2');
+</script>
 ---
 
 > **Fields of Interest**: Macroeconomics, Housing, Monetary Policy and Economic Growth
