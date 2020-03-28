@@ -1,11 +1,4 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62391102-2"></script>
 <script>
@@ -15,6 +8,13 @@ redirect_from:
 
   gtag('config', 'UA-62391102-2');
 </script>
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 > **Fields of Interest**: Macroeconomics, Housing, Monetary Policy and Economic Growth
