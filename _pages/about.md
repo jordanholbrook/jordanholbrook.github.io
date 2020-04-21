@@ -18,6 +18,8 @@ My research focus on two main areas: housing and structural transformation. In h
 **News**
 ======
 
+**[April 21, 2020]** Opinion article calls for a task force to coordinate the reopening of the economy [[link](https://www.dinheirovivo.pt/opiniao/falhar-em-preparar-se-e-preparar-se-para-falhar/)]
+
 **[April 1, 2020]** Opinion article that puts forth a novel fiscal proposal to help fight the economic consequences of the COVID-19 crisis [[link](https://expresso.pt/opiniao/2020-04-01-Protecao-imediata-para-TODOS-mais-barata-que-ajuda-a-Banca)]
 
 **[March 22, 2020]** My COVID-19 data analysis that displays the number of deaths adjusting by population and estimates the true number of infected is now live [[link](https://covid19dashboards.com)]
