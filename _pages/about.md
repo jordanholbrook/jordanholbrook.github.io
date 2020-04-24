@@ -18,6 +18,8 @@ My research focus on two main areas: housing and structural transformation. In h
 **News**
 ======
 
+**[April 24, 2020]** My first blog post! Replication of FAVAR in the original BBE (QJE, 2005) paper [[link](jbduarte.com/blog/)]
+
 **[April 21, 2020]** Opinion article calls for a task force to coordinate the reopening of the economy [[link](https://www.dinheirovivo.pt/opiniao/falhar-em-preparar-se-e-preparar-se-para-falhar/)]
 
 **[April 1, 2020]** Opinion article that puts forth a novel fiscal proposal to help fight the economic consequences of the COVID-19 crisis [[link](https://expresso.pt/opiniao/2020-04-01-Protecao-imediata-para-TODOS-mais-barata-que-ajuda-a-Banca)]
