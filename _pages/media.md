@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /codes/
+permalink: /media/
 author_profile: true
 ---
 
