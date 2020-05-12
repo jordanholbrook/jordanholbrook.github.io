@@ -14,4 +14,7 @@ main:
 
   - title: "Blog"
     url: /blog
+
+  - title: "Media"
+    url: /media
   
