@@ -7,6 +7,10 @@ author_profile: true
 
 # Papers
 
+- Measuring Sectoral Supply and Demand Shocks during COVID-19 <br/>
+(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 
+    - [PDF](/files/BDF2020_v1.pdf) &nbsp;
+
 - One Money, Many Markets: Monetary Transmission and Housing Financing in the Euro Area <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**submitted**)
 	- [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/)
