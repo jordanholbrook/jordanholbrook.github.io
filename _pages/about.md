@@ -19,6 +19,7 @@ My research focus on two main areas: housing and structural transformation. In h
 ======
 
 **[May 12, 2020]** New working paper! We measure sectoral supply and demand shocks during COVID-19, with Pedro Brinca and Miguel Faria-e-Castro
+![alt text](/images/BDF2020.png)
 
 **[April 24, 2020]** My first blog post! Replication of FAVAR in the original BBE (QJE, 2005) paper [[link](http://jbduarte.com/blog/)]
 
