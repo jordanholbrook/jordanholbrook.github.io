@@ -19,7 +19,7 @@ My research focus on two main areas: housing and structural transformation. In h
 ======
 
 
-**[August 7, 2020]** VOX EU column on One Money [[link](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)]
+**[August 7, 2020]** VOX EU column on One Money, Many Markets [[link](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)]
 
 **[July 1, 2020]** One Money, Many Markets now published as a working paper at the IMF and CEPR series
 

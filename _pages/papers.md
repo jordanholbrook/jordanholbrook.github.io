@@ -13,7 +13,7 @@ author_profile: true
 
 - One Money, Many Markets: Monetary Transmission and Housing Financing in the Euro Area <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**submitted**)
-	- [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/)
+	- [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/);  [VOX EU](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)
 
 - Why is Europe Falling Behind? Structural Transformation and Services' Productivity Differences between Europe and the U.S. <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2018
