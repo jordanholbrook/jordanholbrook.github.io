@@ -12,7 +12,7 @@ author_profile: true
     - [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [Shocks](/files/Shocks.zip)
 
 - One Money, Many Markets: Monetary Transmission and Housing Financing in the Euro Area <br/>
-(wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**submitted**)
+(wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), 2020 (**R&R**)
 	- [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/) &nbsp;  [VOX EU](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)
 
 - Why is Europe Falling Behind? Structural Transformation and Services' Productivity Differences between Europe and the U.S. <br/>
