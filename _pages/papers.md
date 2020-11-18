@@ -8,7 +8,7 @@ author_profile: true
 # Papers
 
 - Measuring Labor Supply and Demand Shocks during COVID-19 <br/>
-(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="https://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 (**submitted**)
+(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 (**submitted**)
     - [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [Shocks](/files/Shocks.zip) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
 
 - One Money, Many Markets: Monetary Transmission and Housing Financing in the Euro Area <br/>
@@ -20,11 +20,11 @@ author_profile: true
 	- [PDF](/files/falling_behind.pdf) &nbsp; [online appendix](/files/online_appendix.pdf)
 
 - Monetary Policy, Housing Rents, and Inflation Dynamics <br/>
-(with <a href="https://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
+(with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
     - [PDF](/files/mp_rents_JAE.pdf) &nbsp; [data & replication files](/files/dias-duarte_JAE.zip)
 
 - The Economy Of Portugal And The European Union: From High Growth Prospects To The Debt Crisis <br/>
-(with Werner Baer and <a href="https://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 &nbsp; [link](https://www.sciencedirect.com/science/article/pii/S1062976912000452) 
+(with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 &nbsp; [link](http://www.sciencedirect.com/science/article/pii/S1062976912000452) 
 
 ---
 
