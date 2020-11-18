@@ -12,4 +12,5 @@ author_profile: true
 3. [Opinion in Expresso](https://expresso.pt/opiniao/2020-04-01-Protecao-imediata-para-TODOS-mais-barata-que-ajuda-a-Banca), Apr 2020.
 4. [Opinion in Dinheiro Vivo](https://www.dinheirovivo.pt/opiniao/falhar-em-preparar-se-e-preparar-se-para-falhar/), Apr 2020
 5. Comments on EC economic forecasts in TVI news, May 2020
-6. [GDP forecasts for Portugal in Lusa](https://expresso.pt/economia/2020-07-09-Economistas-admitem-revisao-do-Orcamento-Suplementar-devido-ao-agravamento-das-condicoes-economicas), July 2020
+6. [GDP forecasts for Portugal in Lusa](https://expresso.pt/economia/2020-07-09-Economistas-admitem-revisao-do-Orcamento-Suplementar-devido-ao-agravamento-das-condicoes-economicas), Jul 2020
+7. [Live interview in Sociedade Civil, RTP2](https://www.rtp.pt/play/p6714/sociedade-civil), Oct 2020
