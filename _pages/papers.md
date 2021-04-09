@@ -8,7 +8,7 @@ author_profile: true
 # Papers
 
 - Measuring Labor Supply and Demand Shocks during COVID-19 <br/>
-(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 (**submitted**)
+(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), 2020 (**R&R European Economic Review**)
     - [PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf) &nbsp; [NBER SI slides](/files/Slides_15min.pdf) &nbsp; [Shocks](/files/Shocks.zip) &nbsp;  [VOX EU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19)
 
 - One Money, Many Markets <br/>
