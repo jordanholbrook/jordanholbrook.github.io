@@ -28,7 +28,7 @@ I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-res
 | Mar 11 | Sarah Miller (University of Michigan)    | TBA           |
 | Mar 25 | Giorgio Primiceri (Northwestern)         | TBA           |
 | Apr 22 | Chris Rauh (University of Cambridge)     | TBA           |
-| Apr 29 | Monica Martinez-Bravo                    | TBA           |
+| Apr 29 | Monica Martinez-Bravo (CEMFI)            | TBA           |
 | May 6  | Patricio Dalton (Tilburg University)     | TBA           |
 
 
