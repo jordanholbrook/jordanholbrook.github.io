@@ -7,7 +7,7 @@ author_profile: true
 
 # Nova SBE Economics Seminar Series
 
-I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/30/jose-m-tavares" target="_blank">José Tavares</a>) the Nova SBE Economics Seminar Series. Here is a schedule of the talks for the 2021/22 academic year:
+I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/30/jose-m-tavares" target="_blank">José Tavares</a>) the Nova SBE Economics Seminar Series. Here is the schedule of the talks for the 2021/22 academic year:
 
 - **Fall 2021**
 
