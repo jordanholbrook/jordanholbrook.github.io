@@ -13,7 +13,7 @@ I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-res
 
 | Date   | Speaker (Affiliation)					| Seminar Title |
 | ---    | ---    		 							|  ---          |
-| Sep 17 | Alberto Holly (UNIL)             		| TBA           |
+| Sep 17 | Alberto Holly (UNIL)             		| (Some) heterogeneity issues in risk adjustment modelling  |
 | Oct 8  | Daniel Prinz (Harvard)					| TBA           |
 | Oct 22 | Cezar Santos	(FGV and Bank of Portugal)  | TBA           |
 | Oct 29 | Andrew Foster (Brown University) 		| TBA           |
