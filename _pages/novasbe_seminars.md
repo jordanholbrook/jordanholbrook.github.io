@@ -24,7 +24,7 @@ I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-res
 
 | Date   | Speaker (Affiliation)					| Seminar Title |
 | ---    | ---    		 							|  ---          |
-| Mar 4  | Ruben Durant (UPF)                		| TBA           |
+| Mar 4  | Ruben Durante (UPF)                		| TBA           |
 | Mar 11 | Sarah Miller (University of Michigan)    | TBA           |
 | Mar 25 | Giorgio Primiceri (Northwestern)         | TBA           |
 | Apr 22 | Chris Rauh (University of Cambridge)     | TBA           |
