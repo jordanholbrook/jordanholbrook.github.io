@@ -11,25 +11,25 @@ I co-organize (together with <a href="https://www2.novasbe.unl.pt/en/faculty-res
 
 - **Fall 2021**
 
-| Date   | Speaker (Affiliation)					| Seminar Title |
-| ---    | ---    		 							|  ---          |
-| Sep 17 | Alberto Holly (UNIL)             		| (Some) heterogeneity issues in risk adjustment modelling  |
-| Oct 8  | Daniel Prinz (Harvard)					| TBA           |
-| Oct 22 | Cezar Santos	(FGV and Bank of Portugal)  | TBA           |
-| Oct 29 | Andrew Foster (Brown University) 		| TBA           |
-| Nov 5  | Moritz Schularick (Bonn)					| TBA           |
+| Date   | Speaker (Affiliation)					| Format         | Seminar Title |
+| ---    | ---    		 							|  ---           |  ---          |
+| Sep 17 | Alberto Holly (UNIL)             		| In-person      | (Some) heterogeneity issues in risk adjustment modelling  |
+| Oct 8  | Daniel Prinz (Harvard)					| Online            | TBA           |
+| Oct 22 | Cezar Santos	(FGV and Bank of Portugal)  | In-person      | TBA           |
+| Oct 29 | Andrew Foster (Brown University) 		| In-person      | TBA           |
+| Nov 5  | Moritz Schularick (Bonn)					| Online            | TBA           |
 
 
 - **Spring 2022**
 
-| Date   | Speaker (Affiliation)					| Seminar Title |
-| ---    | ---    		 							|  ---          |
-| Mar 4  | Ruben Durante (UPF)                		| TBA           |
-| Mar 11 | Sarah Miller (University of Michigan)    | TBA           |
-| Mar 25 | Giorgio Primiceri (Northwestern)         | TBA           |
-| Apr 22 | Chris Rauh (University of Cambridge)     | TBA           |
-| Apr 29 | Monica Martinez-Bravo (CEMFI)            | TBA           |
-| May 6  | Patricio Dalton (Tilburg University)     | TBA           |
+| Date   | Speaker (Affiliation)					| Format | Seminar Title |
+| ---    | ---    		 							|  ---          |  ---          |
+| Mar 4  | Ruben Durante (UPF)                		| In-person           | TBA           |
+| Mar 11 | Sarah Miller (University of Michigan)    | Online           | TBA           |
+| Mar 25 | Giorgio Primiceri (Northwestern)         | Online           | TBA           |
+| Apr 22 | Chris Rauh (University of Cambridge)     | In-person           | TBA           |
+| Apr 29 | Monica Martinez-Bravo (CEMFI)            | Online          | TBA           |
+| May 6  | Patricio Dalton (Tilburg University)     | In-person           | TBA           |
 
 
 
