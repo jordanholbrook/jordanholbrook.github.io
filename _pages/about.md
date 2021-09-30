@@ -15,31 +15,6 @@ My research focus on two main areas: housing and structural transformation. In h
 
 ---
 
-**News**
-======
-
-**[Feb 16, 2021]** new Solow model app! [[link](https://solow-model-app.herokuapp.com/)] 
-
-**[November 29, 2020]** new version of my working paper "One Money, Many Markets" is now available.
-
-**[August 7, 2020]** VOX EU column on One Money, Many Markets [[link](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)]
-
-**[July 1, 2020]** One Money, Many Markets now published as a working paper at the IMF and CEPR series
-
-**[May 12, 2020]** New working paper! We measure sectoral supply and demand shocks during COVID-19, with Pedro Brinca and Miguel Faria-e-Castro
-![alt text](/images/BDF2020.png)
-
-**[April 24, 2020]** My first blog post! Replication of FAVAR in the original BBE (QJE, 2005) paper [[link](http://jbduarte.com/blog/)]
-
-**[April 21, 2020]** Opinion article calls for a task force to coordinate the reopening of the economy [[link](https://www.dinheirovivo.pt/opiniao/falhar-em-preparar-se-e-preparar-se-para-falhar/)]
-
-**[April 1, 2020]** Opinion article that puts forth a novel fiscal proposal to help fight the economic consequences of the COVID-19 crisis [[link](https://expresso.pt/opiniao/2020-04-01-Protecao-imediata-para-TODOS-mais-barata-que-ajuda-a-Banca)]
-
-**[March 22, 2020]** My COVID-19 data analysis that displays the number of deaths adjusting by population and estimates the true number of infected is now live [[link](https://covid19dashboards.com)]
-
-**[March 21, 2020]** new version of my working paper "One Money, Many Markets" is now available.
-![alt text](/images/onemoney_news.png)
-
 
 
 
