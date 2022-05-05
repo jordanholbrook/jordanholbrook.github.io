@@ -29,9 +29,9 @@ author_profile: true
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), 2022
     - [PDF](/files/MP_Homeownership.pdf)
 
-- Why is Europe Falling Behind? Structural Transformation and Services' Productivity Differences between Europe and the U.S. <br/>
-(wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2018
-	- [PDF](/files/falling_behind.pdf) &nbsp; [online appendix](/files/online_appendix.pdf)
+- Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
+(wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2022
+	- [PDF](/files/BDS_manuscript.pdf)
 	
 ---
 
