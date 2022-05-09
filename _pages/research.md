@@ -17,7 +17,7 @@ author_profile: true
 
 - Monetary Policy, Housing Rents, and Inflation Dynamics <br/>
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
-    - [PDF](/files/mp_rents_JAE.pdf) &nbsp; [data & replication files](/files/dias-duarte_JAE.zip)
+  - [PDF](/files/mp_rents_JAE.pdf) &nbsp; [data & replication files](/files/dias-duarte_JAE.zip)
 
 - The Economy Of Portugal And The European Union: From High Growth Prospects To The Debt Crisis <br/>
 (with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 &nbsp; [link](http://www.sciencedirect.com/science/article/pii/S1062976912000452) 
@@ -27,15 +27,16 @@ author_profile: true
 
 - Monetary Policy and Homeownership: Empirical Evidence, Theory, and Policy Implications <br/>
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), 2022
-    - [PDF](/files/MP_Homeownership.pdf)
+  - [PDF](/files/MP_Homeownership.pdf)
 
 - Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2022
-    - [PDF](/files/BDS_manuscript.pdf)
+  - [PDF](/files/BDS_manuscript.pdf)
 
 - Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation <br/>
 (with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>), 2022
-    - [PDF](/files/Automation.pdf)
+     - [PDF](/files/Automation.pdf)
+  
 ---
 
 # Work in Progress
