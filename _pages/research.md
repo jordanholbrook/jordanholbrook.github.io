@@ -31,12 +31,13 @@ author_profile: true
 
 - Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2022
-	- [PDF](/files/BDS_manuscript.pdf)
-	
+    - [PDF](/files/BDS_manuscript.pdf)
+
+- Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation <br/>
+(<a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>, 2022
+    - [PDF](/files/Automation.pdf)
 ---
 
 # Work in Progress
 
 - Structural Transformation and the Business Cycle, (with Vasco Carvalho)
-
-- Automation, Taxation, Concentration and Inequality in the U.S., (with Pedro Brinca and Joao Gouveia-de-Oliveira)
