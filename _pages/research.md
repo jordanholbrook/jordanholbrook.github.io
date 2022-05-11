@@ -7,6 +7,10 @@ author_profile: true
 
 # Published Work
 
+- The Effect of Monetary Policy on Household Consumption Expenditures in Portugal: A Decomposition of the Transmission Channel <br/>
+(Nuno Pereira), forthcoming **Portuguese Economic Journal**, 2022
+  - [PDF](/files/Portuguese_households_channels_of_monetary_policy.pdf)
+  
 - One Money, Many Markets <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), **Journal of the European Economic Association**, 2022
     - [PDF](/files/OneMoney_ManyMarkets.pdf) &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/) &nbsp;  [VOX EU](https://voxeu.org/article/heterogeneous-transmission-ecb-policies)
@@ -18,7 +22,7 @@ author_profile: true
 - Monetary Policy, Housing Rents, and Inflation Dynamics <br/>
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
   - [PDF](/files/mp_rents_JAE.pdf) &nbsp; [data & replication files](/files/dias-duarte_JAE.zip)
-
+  
 - The Economy Of Portugal And The European Union: From High Growth Prospects To The Debt Crisis <br/>
 (with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 &nbsp; [link](http://www.sciencedirect.com/science/article/pii/S1062976912000452) 
 
