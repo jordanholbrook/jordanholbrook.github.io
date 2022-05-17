@@ -18,7 +18,7 @@
   text-align: center;
   text-decoration: none;
   background-color: #FFFFFF;
-  border: 0 !important;
+  border: 0.1cm !important;
   border-radius: $border-radius;
   cursor: pointer;
 
@@ -27,11 +27,11 @@
   }
 
   .icon {
-    margin-right: 0.5em;
+    margin-right: 0.4em;
   }
 
   .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+    margin-left: -0.4em; /* override for hidden text*/
   }
 
   /* fills width of parent container */
@@ -41,7 +41,7 @@
     width: 100%;
 
     + .btn--block {
-      margin-top: 0.25em;
+      margin-top: 0.2em;
     }
   }
 
