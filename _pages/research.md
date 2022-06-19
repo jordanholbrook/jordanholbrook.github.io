@@ -30,7 +30,7 @@ author_profile: true
 # Published Work
 
 - The Effect of Monetary Policy on Household Consumption Expenditures in Portugal: A Decomposition of the Transmission Channel <br/>
-(with Nuno Pereira), forthcoming **Portuguese Economic Journal**, 2022
+(with Nuno Pereira), **Portuguese Economic Journal**, 2022
   
   [PDF](https://trebuchet.public.springernature.app/get_content/b0d8f40b-6e8c-4e5e-bc60-07eaee6b6820){: .btn} &nbsp; [WP PDF](/files/Portuguese_households_channels_of_monetary_policy.pdf){: .btn}
 
