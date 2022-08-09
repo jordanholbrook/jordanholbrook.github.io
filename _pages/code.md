@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: ""
-permalink: /codes/
+permalink: /code/
 author_profile: true
 ---
 
 
-All of the codes can be found in my Github account repositories [[link](https://github.com/jbduarte)]
+All code can be found in my GitHub account repositories [[link](https://github.com/jbduarte)]
 
 - **Intro to Python** &nbsp; &nbsp; [[link](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/1-%20Intro%20to%20Python)]
 - **Data Analysis and Machine Learning** &nbsp; &nbsp; [[link](https://github.com/jbduarte/SPGE_Numerical_Course/tree/master/Part%203-%20Data%20Analysis)]
