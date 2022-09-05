@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-https://www.dropbox.com/sh/xi2mrhd168tvfqg/AACIRTW5yikZqqeuMZxYoFO8a?dl=0
+https://www.dropbox.com/sh/5y37qa3xe08moph/AAAv-FMP71MuqFZtXL0njY-ba?dl=0
+
 
 ### Advanced Topics in Macro
 - PhD in Economics  (Nova SBE) - Fall 2019 &nbsp; &nbsp; [Lectures](https://github.com/jbduarte/Advanced_Macro)
