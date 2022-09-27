@@ -5,10 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### PIE - APA & AT Specialised Course 
-
-[Workshop material](https://novasbe365-my.sharepoint.com/:f:/g/personal/pedro_brinca_novasbe_pt/EnIwwK4XX2tDq0Q0D9hgF8gBkNp_YzLHBKDOya0nEp37Kw?e=X4Jz4v)
-
 ### Advanced Topics in Macro
 - PhD in Economics  (Nova SBE) - Fall 2019 &nbsp; &nbsp; [Lectures](https://github.com/jbduarte/Advanced_Macro)
 
