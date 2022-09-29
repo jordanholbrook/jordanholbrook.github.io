@@ -32,7 +32,7 @@ author_profile: true
 - The Effect of Monetary Policy on Household Consumption Expenditures in Portugal: A Decomposition of the Transmission Channel <br/>
 (with Nuno Pereira), **Portuguese Economic Journal**, 2022
   
-  [PDF](https://trebuchet.public.springernature.app/get_content/b0d8f40b-6e8c-4e5e-bc60-07eaee6b6820){: .btn} &nbsp; [WP PDF](/files/Portuguese_households_channels_of_monetary_policy.pdf){: .btn}
+  [PDF](https://link.springer.com/article/10.1007/s10258-022-00214-1){: .btn} &nbsp; [WP PDF](/files/Portuguese_households_channels_of_monetary_policy.pdf){: .btn}
 
 - One Money, Many Markets <br/>
 (wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), **Journal of the European Economic Association**, 2022
