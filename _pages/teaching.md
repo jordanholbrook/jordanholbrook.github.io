@@ -21,7 +21,6 @@ author_profile: true
 
 ### Solow Model App
 - [Model description link](https://jbduarte.com/blog/economic%20growth/python/dash/2021/02/16/Solow.html)
-- [App link](https://solow-model-app.herokuapp.com/)
 
 ### Macroeconometrics
 - Masters in Economics - (Nova SBE)​ - Spring 2016, Spring 2017​, Spring 2020 &nbsp; &nbsp; [Lectures](/files/Slides.zip)
