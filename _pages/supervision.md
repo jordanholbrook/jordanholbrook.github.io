@@ -7,11 +7,11 @@ author_profile: true
 
 ## Current
 
-|                                                                                          | Name             | Research                                                | Webpage                                                                                          |
-|------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| <img src="https://luistelesm.github.io/assets/images/ltm-photo.jpg" alt= “” width="120"> | Luis T. Morais   | Housing Finance and Public Finance                      | [link](https://luistelesm.github.io/)                                                            |
-| ![](https://www.novasbe.unl.pt/Portals/0/Faculty/30585.jpg)                              | Afonso S. Moura  | Fiscal and Monetary Policy                              | [link](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1245/afonso-s-moura) |
-| ![](https://www.novasbe.unl.pt/Portals/0/Faculty/25913.jpg)                              | Mariana Pires    | Monetary Policy, Financial Integration and Productivity | [link](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1196/mariana-pires)                                                                                         |
+|                                                                                  | Name            | Research                                                | Webpage                                                                                                                              |
+|----------------------------------------------------------------------------------|-----------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://luistelesm.github.io/assets/images/ltm-photo.jpg" width="120"> | Luis T. Morais  | Housing Finance and Public Finance                      | [link](https://luistelesm.github.io/)                                                                                                |
+| ![](https://www.novasbe.unl.pt/Portals/0/Faculty/30585.jpg)                      | Afonso S. Moura | Fiscal and Monetary Policy                              | [link](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/1245/afonso-s-moura)                                 |
+| ![](https://www.novasbe.unl.pt/Portals/0/Faculty/25913.jpg)                      | Mariana Pires   | Monetary Policy, Financial Integration and Productivity | [link](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1196/mariana-pires) |
 
 
 ## Graduated
