@@ -18,12 +18,12 @@ author_profile: true
   [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn}
 
 - Monetary Policy and Homeownership: Empirical Evidence, Theory, and Policy Implications <br/>
-(with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), 2022
+(with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Reject and Resubmit at the Journal of Monetary Economics** 2022
 
   [Fed Board IFDP PDF](https://www.federalreserve.gov/econres/ifdp/files/ifdp1344.pdf){: .btn}  &nbsp; [RePEc PDF](https://mpra.ub.uni-muenchen.de/112990/8/MP_Homeownership.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051926){: .btn}
 
 - Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
-(wit﻿h﻿ <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Reject and Resubmit at the Economic Journal** 2022
+(with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Reject and Resubmit at the Economic Journal** 2022
 
   [WP PDF](/files/BDS_manuscript.pdf){: .btn}
 
