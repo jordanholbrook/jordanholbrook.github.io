@@ -53,7 +53,7 @@ author_profile: true
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
 
   [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2679){: .btn} &nbsp; [WP PDF](/files/mp_rents_JAE.pdf){: .btn} &nbsp; [data & replication files](/files/dias-duarte_JAE.zip){: .btn}
-  
+
 - The Economy Of Portugal And The European Union: From High Growth Prospects To The Debt Crisis <br/>
 (with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 
 
