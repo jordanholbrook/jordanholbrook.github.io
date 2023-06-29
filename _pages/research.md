@@ -13,7 +13,7 @@ author_profile: true
   [WP PDF](https://www.janeway.econ.cam.ac.uk/working-paper-pdfs/jiwp2308.pdf){: .btn} &nbsp; [Slides](/files/Short_and_Variable_Lags_slides.pdf){: .btn} &nbsp; [VoxEU](https://cepr.org/voxeu/columns/monetary-policy-also-has-short-run-effects){: .btn}
 
 - Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation <br/>
-(with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>), 2022
+(with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>), **Revise and Resubmit at the Review of Economic Studies** 2022
 
   [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn}
 
