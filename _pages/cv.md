@@ -9,7 +9,7 @@ B.Sc. Mathematics & Economics, [Brigham Young University](https://www.byu.edu/),
 
 ### Research Experience
 
-Doctoral Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
+Doctoral Researcher, Hobby School of Public Affairs, University of Houston, 2023-2024
 
 Research Assistant, Prof. Fan Wong, University of Houston, Summer 2023
 
