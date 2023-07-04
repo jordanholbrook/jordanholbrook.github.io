@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "João B. Duarte"
+title                    : "Jordan Holbrook"
 title_separator          : "-"
-name                     : &name "João B. Duarte"
-description              : &description "Assistant Professor at Nova SBE"
-url                      : "https://jbduarte.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jordan Holbrook"
+description              : &description "Economics Ph.D. Candidate at University of Houston"
+url                      : "https://jordanholbrook.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jbduarte/jbduarte.github.io"
+repository               : "jordanholbrook/jordanholbrook.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter JoaoBDuart3
+  username               : &twitter JordanCHolbrook
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : ""
   avatar           : "/images/profile.jpg"
-  bio              : "Assistant Professor at Nova SBE"
-  location         : "Carcavelos, Lisbon, Portugal"
-  googlescholar    : "https://scholar.google.com/citations?user=0V7l-SgAAAAJ&hl=en"
-  email            : "joao.duarte@novasbe.pt"
-  researchgate     : "https://www.researchgate.net/profile/Joao_Duarte34"
+  bio              : "Economics Ph.D. Candidate at University of Houston"
+  location         : "Houston, Texas, USA"
+  googlescholar    : #"https://scholar.google.com/citations?user=0V7l-SgAAAAJ&hl=en"
+  email            : "jcholbrook@uh.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Joao_Duarte34"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jbduarte"
+  github           : "jordanholbrook"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8860-783X"
+  orcid            : #"https://orcid.org/0000-0002-8860-783X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JoaoBDuart3"
+  twitter          : "JordanCHolbrook"
   vine             :
   weibo            :
   xing             :
