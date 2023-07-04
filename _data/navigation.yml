@@ -12,8 +12,6 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
-  - title: "Blog"
-    url: /blog
+  #- title: "Blog"
+  #  url: /blog
 
-  - title: "Ph.D. Advisees"
-    url: /supervision
