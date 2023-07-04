@@ -5,56 +5,49 @@ permalink: papers/
 author_profile: true
 ---
 
-# Working Papers
+Peer Reviewed Publications
+---
 
-- Short and Variable Lags <br/>
-(with Gergely Buda, Vasco Carvalho, Giancarlo Corsetti, Stephen Hansen, Afonso Moura, Alvaro Ortiz, Tomasa Rodrigo, José Rodríguez Mora, and Guilherme Silva), 2023
+["Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults" ](https://journals.sagepub.com/home/jag) Forthcoming _Journal of Applied Gerontology_, 2023
 
-  [WP PDF](https://www.janeway.econ.cam.ac.uk/working-paper-pdfs/jiwp2308.pdf){: .btn} &nbsp; [Slides](/files/Short_and_Variable_Lags_slides.pdf){: .btn} &nbsp; [VoxEU](https://cepr.org/voxeu/columns/monetary-policy-also-has-short-run-effects){: .btn}
+- Chae, Minji: Humana Integrated Health System Sciences Institute
+- Chavez, Arlette: Humana Integrated Health System Sciences Institute
+- Singh, Maya: Humana Integrated Health System Sciences Institute
+- Holbrook, Jordan: Humana Integrated Health System Sciences Institute
+- Glasheen, William; Humana 
+- Woodard, LeChauncy: University of Houston, College of Medicine, Humana Institute
+- Adepoju, Omolola;  University of Houston, College of Medicine, Humana Institute
 
-- Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation <br/>
-(with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>), **Revise and Resubmit at the Review of Economic Studies** 2022
-
-  [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn}
-
-- Monetary Policy and Homeownership: Empirical Evidence, Theory, and Policy Implications <br/>
-(with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Reject and Resubmit at the Journal of Monetary Economics** 2022
-
-  [Fed Board IFDP PDF](https://www.federalreserve.gov/econres/ifdp/files/ifdp1344.pdf){: .btn}  &nbsp; [RePEc PDF](https://mpra.ub.uni-muenchen.de/112990/8/MP_Homeownership.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051926){: .btn}
-
-- Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
-(with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Reject and Resubmit at the Economic Journal** 2022
-
-  [WP PDF](/files/BDS_manuscript.pdf){: .btn}
-
-
-# Work in Progress
-
-- Structural Transformation and the Business Cycle, (with Vasco Carvalho)
-
-# Published Work
-
-- The Effect of Monetary Policy on Household Consumption Expenditures in Portugal: A Decomposition of the Transmission Channel <br/>
-(with Nuno Pereira), **Portuguese Economic Journal**, 2022
   
-  [PDF](https://link.springer.com/article/10.1007/s10258-022-00214-1){: .btn} &nbsp; [WP PDF](/files/Portuguese_households_channels_of_monetary_policy.pdf){: .btn}
+[Estimating the effect of focused donor registration efforts on the number of organ donors](https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0241672)
 
-- One Money, Many Markets <br/>
-(wit﻿h﻿ <a href="https://sites.google.com/site/giancarlocorsetti/" target="_blank">Giancarlo Corsetti</a> and Samuel Mann), **Journal of the European Economic Association**, 2022
+> Waiting times for organs in the United States are long and vary widely across regions. Donor registration can increase the number of potential donors, but its effect on the actual number of organ transplants depends upon several factors. First among these factors is that deceased donor organ donation requires both that death occur in a way making recovery possible and that authorization to recover organs is obtained. We estimate the potential donor death rate and donor authorization rate conditional on potential donor death by donor registration status for each state and for key demographic groups. With this information, we then develop a simple measure of the value of a new donor registration. This combined measure using information on donor authorization rates and potential death rates varies widely across  states and groups, suggesting that focusing registration efforts on high-value groups and locations can significantly increase the overall number of donors. Targeting high-value states raises 26.7 percent more donors than a uniform, nationwide registration effort. Our estimates can also be used to assess alternative, but complemtary, policies such as protocols to improve authorization rates for non-registered potential donors.
 
-  [PDF](https://academic.oup.com/jeea/article-abstract/20/1/513/6308374?redirectedFrom=fulltext){: .btn} &nbsp; [WP PDF](/files/OneMoney_ManyMarkets.pdf){: .btn} &nbsp; [ADEMU Policy Brief](https://ademu-project.eu/policy-brief-one-money-many-markets/){: .btn} &nbsp;  [VoxEU](https://voxeu.org/article/heterogeneous-transmission-ecb-policies){: .btn}
+- James Cardon, Brigham Young University: Department of Economics
+- Mark Showalter, Brigham Young University: Department of Economics
+- Jordan Holbrook, University of Houston: Department of Economics
 
-- Measuring Labor Supply and Demand Shocks during COVID-19 <br/>
-(wit﻿h﻿ <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a> and <a href="http://fariaecastro.net/" target="_blank">Miguel Faria-e-Castro</a>), **European Economic Review**, 2021
+Recommended citation: Cardon JH, Holbrook JC, Showalter MH (2020) Estimating the effect of focused donor registration efforts on the number of organ donors. PLoS ONE 15(11), PUBLIC LIBRARY OF SCIENCE: e0241672. https://doi.org/10.1371/journal.pone.0241672
 
-  [PDF](https://www.sciencedirect.com/science/article/pii/S0014292121002130){: .btn} &nbsp; [WP PDF](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-011.pdf){: .btn} &nbsp; [NBER SI slides](/files/Slides_15min.pdf){: .btn} &nbsp; [SEACEN slides](/files/seacen_slides.pdf){: .btn} &nbsp; [Code](https://github.com/jbduarte/labor_supply_demand_covid19){: .btn} &nbsp;  [VoxEU](https://voxeu.org/article/decomposing-demand-and-supply-shocks-during-covid-19){: .btn}
 
-- Monetary Policy, Housing Rents, and Inflation Dynamics <br/>
-(with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Journal of Applied Econometrics**, 2019 : ﻿
+Working Papers
+---
 
-  [PDF](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2679){: .btn} &nbsp; [WP PDF](/files/mp_rents_JAE.pdf){: .btn} &nbsp; [data & replication files](/files/dias-duarte_JAE.zip){: .btn}
+<a href="/files/add my file">Trade and Wage Rigidity: Accessing the Role of Monetary Policy</a>
 
-- The Economy Of Portugal And The European Union: From High Growth Prospects To The Debt Crisis <br/>
-(with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 
+- William Bennett, University of Houston
+- Jordan Holbrook, University of Houston
+- Yang Pei, University of Houston
+- William Sevier, University of Houston
 
-  [PDF](http://www.sciencedirect.com/science/article/pii/S1062976912000452){: .btn} 
+<a href="/files/add my file">The Effect of Mass Shooting Events on Community Mental Health</a>
+
+- Jordan Holbrook, University of Houston
+- Angelo Dos Santos, University of Houston
+- William Sevier, University of Houston
+
+<a href="/files/add my file">Investigating Overlapping Generations Models</a> 
+
+- Jordan Holbrook, University of Houston, Second Year Ph.D. Summer Project
+
+
