@@ -14,7 +14,7 @@ Prof. Natalia Zhivan, Spring 2022
 * Econometrics I: ECON 3370 
 
 Prof. Vikram Maheshri
-* Introduction of Quantitative Methods (Ph.D Course), Fall 2021
+* Introduction to Quantitative Methods (Ph.D Course), Fall 2021
 
 Prof. Christoper Clarke, Fall 2020
 * Macroeconomic Principles: ECON 2305
