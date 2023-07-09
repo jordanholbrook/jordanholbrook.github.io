@@ -1,18 +1,33 @@
 # main links links
 main:
   - title: "Research"
-    url: /papers/   
-
+    url: /papers/
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
   - title: "Code"
     url: /code/
-    
   - title: "CV"
-    #url: /files/CV.pdf
-     url: /cv/
-    
-  #- title: "Blog"
-  #  url: /blog
+    url: /cv/
+
+
+
+
+
+# main links links
+# main: |-
+#   - title: "Research"
+#     url: /papers/
+
+#   - title: "Teaching"
+#     url: /teaching/
+
+#   - title: "Code"
+#     url: /code/
+
+#   - title: "CV"
+#     #url: /files/CV.pdf
+#     url: /cv/
+
+#   #- title: "Blog"
+#   #  url: /blog
 
