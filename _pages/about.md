@@ -17,9 +17,8 @@ I will be a Doctoral Researcher at the [University of Houston - Hobby School of 
 
 Here is my <a href="/files/Holbrook.Jordan.Resume.11.2022.PE.pdf">Resume</a> and my academic research focused [CV](https://jordanholbrook.github.io/cv/). 
 
-Feel free to contact me regarding research, opportunities, or collabration. 
+Contact me regarding research or collaboration opportunities. 
 
----
 
 
 
