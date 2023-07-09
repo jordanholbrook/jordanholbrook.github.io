@@ -30,6 +30,27 @@ Research Assistant, Prof. James Cardon & Prof. Mark Showalter, Brigham Young Uni
 
 Research Assistant, Prof. Lars Lefgren, Brigham Young University, Summer 2019
 
+Work Experience 
+------ 
+
+ENRICH Fellow | Life Science Consultant, Enventure, Houston Texas, 2023
+
+Business Development Internship, TNC Aviation, New Delhi, India, Summer 2017
+
+Here you can find my <a href="/files/add_file.pdf">CV</a>.
+
+
+Presentations
+------
+
+Texas Applied Microeconomics Workshop (TEAMS), April 2023
+
+American Society of Health Economists, ASHECON, June 2023 (Co-author presented)
+
+Academy Health (poster), June 2023
+
+University of Houston, Graduate Student Seminar, May 2023
+
 
 [Teaching Experience](https://jordanholbrook.github.io/teaching/) 
 ------
