@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "website_photo.jpg" #"/images/website_photo.jpg"
+  avatar           : "/images/website_photo.jpg"
   bio              : "Economics Ph.D. Candidate at University of Houston"
   location         : "Houston, Texas, USA"
   googlescholar    : #"https://scholar.google.com/citations?user=0V7l-SgAAAAJ&hl=en"
