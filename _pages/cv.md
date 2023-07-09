@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-
+Here you can find my academic <a href="/files/add_file.pdf">CV</a> and my industry oriented <a href="/files/add_file.pdf">resume</a>
 
 Education
 ------
@@ -36,8 +36,6 @@ Work Experience
 ENRICH Fellow | Life Science Consultant, Enventure, Houston Texas, 2023
 
 Business Development Internship, TNC Aviation, New Delhi, India, Summer 2017
-
-Here you can find my <a href="/files/add_file.pdf">CV</a>.
 
 
 Presentations
@@ -73,9 +71,4 @@ Prof. Scott Bradford, Brigham Young University, Spring 2020
 Prof. Mark Showalter, Brigham Young University, Fall 2018
 * Principles of Economics: ECON 110
 
-Work Experience 
-------
 
-Business Development Internship, TNC Aviation, New Delhi, India, Summer 2017
-
-Here you can find my <a href="/files/add_file.pdf">CV</a>.
