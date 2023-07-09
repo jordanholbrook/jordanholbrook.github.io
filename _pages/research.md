@@ -8,7 +8,7 @@ author_profile: true
 Peer Reviewed Publications
 ---
 
-["Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults" ](https://journals.sagepub.com/home/jag) Forthcoming _Journal of Applied Gerontology_, 2023
+["Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults" ](https://journals.sagepub.com/home/jag) Under Review _Journal of Applied Gerontology_, 2023
 
 - Chae, Minji: Humana Integrated Health System Sciences Institute
 - Chavez, Arlette: Humana Integrated Health System Sciences Institute
@@ -32,7 +32,10 @@ Recommended citation: Cardon JH, Holbrook JC, Showalter MH (2020) Estimating the
 
 Working Papers
 ---
+<a href="/files/add my file">The Returns to Elite Sports Programs: Signaling or Value-Added</a> 
 
+- Jordan Holbrook, University of Houston, Third Year Ph.D. Paper
+  
 <a href="/files/add my file">Trade and Wage Rigidity: Accessing the Role of Monetary Policy</a>
 
 - William Bennett, University of Houston
