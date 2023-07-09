@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 
-All code can be found in my GitHub account repositories [[link](https://github.com/jbduarte)]
+All code can be found in my GitHub account repositories [[link](https://github.com/jordanholbrook)]
 
-- **Intro to Python** &nbsp; &nbsp; [[link](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/1-%20Intro%20to%20Python)]
-- **Data Analysis and Machine Learning** &nbsp; &nbsp; [[link](https://github.com/jbduarte/SPGE_Numerical_Course/tree/master/Part%203-%20Data%20Analysis)]
-- **Intro to Numerical Methods** &nbsp; &nbsp; [[link](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/2-%20Numerical%20Methods)]
-- **RBC Model** &nbsp; &nbsp; [[link](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/3-%20Representative%20Agent%20Models)]
-- **Heterogeneous Agent Models Set in Discrete Time** &nbsp; &nbsp; [[No aggr. uncertainty](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/4-%20Heterogeneous%20Agent%20Models)] &nbsp; [[With aggr. uncertainty](https://github.com/jbduarte/Computational-Methods-in-Macro/tree/master/5-%20Incomplete%20Markets%20%2B%20Aggregate%20Uncertainty%20Models)]
-- **Heterogeneous Agent Models Set in Continuous Time** &nbsp; &nbsp; [[link](https://github.com/jbduarte/Numerical_Continuous_Time)]
+- **Examing Gender Gap in Hypercompetitive Markets: Evidence from Bestselling Authors** &nbsp; &nbsp; [[Project Website](https://angelosant0s.github.io/authors-project/md/intro.html)] &nbsp; [[Code Repository](https://github.com/AngeloSant0s/authors-project)]
+- **Replicating Keane and Wolpin (1997)** &nbsp; &nbsp; [[pdf](https://github.com/jbduarte/SPGE_Numerical_Course/tree/master/Part%203-%20Data%20Analysis)]
+- **Equity Premium Puzzle** &nbsp; &nbsp; [[link](https://github.com/jordanholbrook/equity_premium_puzzle)]
+
 
 
 
