@@ -33,7 +33,7 @@ Research Assistant, Prof. Lars Lefgren, Brigham Young University, Summer 2019
 Work Experience 
 ------ 
 
-ENRICH Fellow | Life Science Consultant, Enventure, Houston Texas, 2023
+ENRICH Fellow - Healthcare Strategy Consultant, Enventure, Houston Texas, 2023
 
 Business Development Internship, TNC Aviation, New Delhi, India, Summer 2017
 
