@@ -10,13 +10,11 @@ Peer Reviewed Publications
 
 ["Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults" ](https://journals.sagepub.com/home/jag) Under Review _Journal of Applied Gerontology_, 2023
 
-- Chae, Minji: Humana Integrated Health System Sciences Institute
-- Chavez, Arlette: Humana Integrated Health System Sciences Institute
-- Singh, Maya: Humana Integrated Health System Sciences Institute
-- Holbrook, Jordan: Humana Integrated Health System Sciences Institute
-- Glasheen, William; Humana 
-- Woodard, LeChauncy: University of Houston, College of Medicine, Humana Institute
-- Adepoju, Omolola;  University of Houston, College of Medicine, Humana Institute
+- Chae, Minji*; Chavez, Arlette*; Singh, Maya*; Holbrook, Jordan*; Glasheen, William**; Woodard, LeChauncy***; Adepoju, Omolola***
+    -  (*) Humana Integrated Health System Sciences Institute
+    -  (**) Humana 
+    -  (***) University of Houston, College of Medicine, Humana Institute
+
 
   
 [Estimating the effect of focused donor registration efforts on the number of organ donors](https://journals.plos.org/plosone/articleid=10.1371/journal.pone.0241672)
