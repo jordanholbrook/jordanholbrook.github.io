@@ -10,7 +10,7 @@ Peer Reviewed Publications
 
 ["Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults" ](https://journals.sagepub.com/home/jag) Under Review _Journal of Applied Gerontology_, 2023
 
-- Chae, Minji*; Chavez, Arlette*; Singh, Maya*; Holbrook, Jordan*; Glasheen, William**; Woodard, LeChauncy***; Adepoju, Omolola***
+- Chae, Minji *; Chavez, Arlette *; Singh, Maya *; Holbrook, Jordan *; Glasheen, William **; Woodard, LeChauncy ***; Adepoju, Omolola ***
     -  (*) Humana Integrated Health System Sciences Institute
     -  (**) Humana 
     -  (***) University of Houston, College of Medicine, Humana Institute
