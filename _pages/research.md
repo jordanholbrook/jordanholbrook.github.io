@@ -36,6 +36,8 @@ Working Papers
   
 <a href="/files/add my file">Trade and Wage Rigidity: Accessing the Role of Monetary Policy</a>
 
+**Trade and Wage Rigidity: Accessing the Role of Monetary Policy** &nbsp; &nbsp; [[pdf]()] &nbsp; [[slides]()]
+
 - William Bennett, University of Houston
 - Jordan Holbrook, University of Houston
 - Yang Pei, University of Houston
