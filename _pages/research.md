@@ -46,8 +46,8 @@ Working Papers
 - Angelo Dos Santos, University of Houston
 - William Sevier, University of Houston
 
-The Returns to Elite Sports Programs: Signaling or Value-Added
+**The Returns to Elite Sports Programs: Signaling or Value-Added**
 
-Investigating Overlapping Generations Models
+**Investigating Overlapping Generations Models**
 
 
