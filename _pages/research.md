@@ -8,7 +8,7 @@ author_profile: true
 Peer Reviewed Publications
 ---
 
-[Predictors of Participation in Telephone-Based Social-Connectedness Interventions for Older Adults ](https://journals.sagepub.com/home/jag) Under Review, 2023
+[Evaluating Predictors of Participation in Telephone-Base Social Connectedness Interventions for Older Adults: A Dual Machine-Learning and Regression Approach ](https://journals.sagepub.com/doi/full/10.1177/23337214231201204) Gerontology & Geriatric Medicine, 2023
 
 - Chae, Minji $^1$; Chavez, Arlette $^1$; Singh, Maya $^1$; Holbrook, Jordan $^1$; Glasheen, William $^2$; Woodard, LeChauncy $^3$; Adepoju, Omolola $^3$
     -  $^1$ Humana Integrated Health System Sciences Institute
@@ -48,6 +48,6 @@ Working Papers
 
 **The Returns to Elite Sports Programs: Signaling or Value-Added**
 
-**Investigating Overlapping Generations Models**
+
 
 
