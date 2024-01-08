@@ -41,6 +41,8 @@ Business Development Internship, TNC Aviation, New Delhi, India, Summer 2017
 Presentations
 ------
 
+AI in Health (Rice University, poster), Oct 2023
+
 Texas Applied Microeconomics Workshop (TEAMS), April 2023
 
 American Society of Health Economists, ASHECON, June 2023 (Co-author presented)
