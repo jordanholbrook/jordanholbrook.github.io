@@ -10,7 +10,7 @@ Job Market Paper
 
 **The Returns to Elite Sports Programs: Signaling or Value-Added** &nbsp; [[pdf](/files/NFL_manu_8_20_2023_web.pdf)] &nbsp; [[slides](/files/PrjNFL_04_2024_slides_web.pdf)]
 
-![Figure Description](/images/151_80_20_college)
+![Figure Description](/images/151_80_20_college.png)
 
 
 Working Papers
