@@ -5,6 +5,12 @@ permalink: papers/
 author_profile: true
 ---
 
+Job Market Paper
+--- 
+
+**The Returns to Elite Sports Programs: Signaling or Value-Added** &nbsp; [[pdf](/files/International_Trade_Final_Project.pdf)] &nbsp; [[slides](/files/Trade_Class_project_slides.pdf)]
+
+
 Peer Reviewed Publications
 ---
 
@@ -31,7 +37,7 @@ Peer Reviewed Publications
 Recommended citation: Cardon JH, Holbrook JC, Showalter MH (2020) Estimating the effect of focused donor registration efforts on the number of organ donors. PLoS ONE 15(11), PUBLIC LIBRARY OF SCIENCE: e0241672. https://doi.org/10.1371/journal.pone.0241672
 
 
-Working Papers
+Works in Progress
 ---
   
 **Trade and Wage Rigidity: Accessing the Role of Monetary Policy** &nbsp; [[pdf](/files/International_Trade_Final_Project.pdf)] &nbsp; [[slides](/files/Trade_Class_project_slides.pdf)]
@@ -42,13 +48,13 @@ Working Papers
 - William Sevier, University of Houston
 
 
-**The Effect of Mass Shooting Events on Community Mental Health**  &nbsp; [[pdf](/files/Shootings_and_Mental_Health.pdf)]
+**The Effect of Mass Shooting Events on Community Mental Health**  
 
 - Jordan Holbrook, University of Houston
 - Angelo Dos Santos, University of Houston
 - William Sevier, University of Houston
 
-**The Returns to Elite Sports Programs: Signaling or Value-Added**
+
 
 
 
