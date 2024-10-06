@@ -20,8 +20,6 @@ B.Sc. Mathematics & Economics, [Brigham Young University](https://www.byu.edu/),
 
 Doctoral Researcher, Hobby School of Public Affairs, University of Houston, 2023-2024
 
-Research Assistant, Prof. Fan Wang, University of Houston, Summer 2023
-
 Doctoral Researcher, Humana Integrated Health System Sciences Institute, University of Houston, 2022-2023
 
 Research Assistant, Prof. Chinhui Juhn & Prof. Yona Rubinstein, University of Houston, June 2020 - Aug 2022
