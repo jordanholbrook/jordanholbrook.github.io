@@ -9,13 +9,17 @@ Job Market Paper
 --- 
 
 **The Returns to Elite Sports Programs: Signaling or Value-Added** &nbsp; [[pdf](/files/JMP_web.pdf)]
+> This study constructs a novel panel dataset of highly recruited high school athletes, analyzes their participation in college sports programs and subsequent professional sports career outcomes. Utilizing the matched applicant approach, or Dale and Krueger method, that exploits variation in enrollment decisions conditional on similar offer-sets, I estimate selection-corrected returns to attending an elite college sports programs on job placement in the NFL. The findings reveal that student-athletes from top-ranked football programs are significantly more likely to become professional athletes, with a one standard deviation increase in sports program ranking raising the likelihood of being drafted by 32\% of the mean. The paper further explores whether these returns align with a human capital or signaling framework, concluding that the evidence supports the latter, particularly with heterogeneous effects across different position groups.
 
-![Figure Description](/images/151_80_20_college.png)
+
+![Figure Description](/images/)
 
 
 Working Papers
 --- 
-**Career Decisions for Children in Thai Village Economies**
+**Career Decisions for Children in Thai Village Economies** (with Fan Wang and Robert Townsend)
+> This empirical study focuses on understanding career decisions among children and young adults in Thai villages. It employs clustering analysis to identify career trajectory clusters and investigates how early investments in human capital, such as work experience and schooling, influence later-life career paths. The study also explores whether the timing or magnitude of these investments matters more and considers the role of household characteristics and environmental factors in adult labor market outcomes. The Townsend Thai Monthy Survey used provides a detailed, monthly examination of time allocation from childhood to adulthood, allowing for an exploration of inter-temporal substitution dynamics. Ultimately, the research aims to uncover the link between time allocation patterns, human capital accumulation, labor market participation, and career choices, with potential implications for policy interventions in village economies to support child development and economic well-being.
+
 
 **The Gender Gap in the Market for Superstars: Evidence from the NYT Best Sellers List**
 
