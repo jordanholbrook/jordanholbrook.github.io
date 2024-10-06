@@ -12,7 +12,8 @@ Job Market Paper
 > This study constructs a novel panel dataset of highly recruited high school athletes, analyzes their participation in college sports programs and subsequent professional sports career outcomes. Utilizing the matched applicant approach, or Dale and Krueger method, that exploits variation in enrollment decisions conditional on similar offer-sets, I estimate selection-corrected returns to attending an elite college sports programs on job placement in the NFL. The findings reveal that student-athletes from top-ranked football programs are significantly more likely to become professional athletes, with a one standard deviation increase in sports program ranking raising the likelihood of being drafted by 32\% of the mean. The paper further explores whether these returns align with a human capital or signaling framework, concluding that the evidence supports the latter, particularly with heterogeneous effects across different position groups.
 
 
-![Figure Description](/images/)
+![Figure Description](/images/perf_accuracy_full_controls_v2.pdf)
+
 
 
 Working Papers
