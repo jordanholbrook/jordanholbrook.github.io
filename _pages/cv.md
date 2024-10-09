@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Here you can find my academic <a href="/files/JordanHolbrookCV_s10_2024_web.pdf">CV</a> and my industry oriented <a href="/files/Holbrook.Jordan.Resume.07.2023_web.pdf">Resume</a>
+Here you can find my academic <a href="/files/cv_web.pdf">CV</a> and my industry oriented <a href="/files/Holbrook.Jordan.Resume.07.2023_web.pdf">Resume</a>
 
 Education
 ------
