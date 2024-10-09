@@ -15,7 +15,7 @@ I am a fifth-year Economics Ph.D. Candidate at the [Universtity of Houston](http
 
 Currently, I am a Doctoral Researcher at the [University of Houston - Hobby School of Public Affairs](https://uh.edu/hobby/) during the 2023-2025 academic years. I was previously a Research Assistant at the [Humana Integrated Health System Sciences Institute](https://uh.edu/medicine/research/humana-institute/) in collaboration with the [Tilman J. Fertitta College of Medicine](https://uh.edu/medicine).
 
-Feel free to check out my <a href="/files/Holbrook.Jordan.Resume.07.2023_web.pdf">Resume</a> or academic research focused <a href="/files/JordanHolbrookCV_s10_2024_web.pdf">CV</a>. I’m always open to discussing research or collaboration opportunities, so don’t hesitate to reach out!
+Feel free to check out my <a href="/files/Holbrook.Jordan.Resume.07.2023_web.pdf">Resume</a> or academic research focused <a href="/files/cv_web.pdf">CV</a>. I’m always open to discussing research or collaboration opportunities, so don’t hesitate to reach out!
 
 
 
